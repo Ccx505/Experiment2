@@ -1,4 +1,3 @@
-https://github.com/Ccx505/Experiment2/blob/master/MenuActivity.png
 Experiment2 项目说明
 
 本项目是一个基于 Android Studio 的多界面综合实验应用，主要用于学习和练习 Activity 的使用、布局管理、菜单功能、事件响应以及界面交互等基础开发内容。
@@ -48,7 +47,7 @@ https://raw.githubusercontent.com/Ccx505/Experiment2/master/CalculatorActivity.p
 
 4. TravelActivity  
 该界面模拟旅行应用的预订流程，通过控件组合展示了 Switch、DatePickerDialog、输入框等组件的交互使用。  
-功能要点包括：单程与往返模式切换、日期选择器、出发与到达城市输入、提交与反馈显示。
+功能要点包括：单程与往返模式切换、日期选择器、出发与到达输入、提交与反馈显示。
 
 图片展示：  
 https://raw.githubusercontent.com/Ccx505/Experiment2/master/TravelActivity.png
