@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    android:background="#333">
+
+    <TableRow>
+        <TextView
+            android:text="Open..."
+            android:textColor="#fff"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="Ctrl+O"
+            android:textColor="#ccc"
+            android:layout_gravity="right"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Save..."
+            android:textColor="#fff"
+            android:padding="10dp"/>
+        <TextView
+            android:text="Ctrl+S"
+            android:textColor="#ccc"
+            android:layout_gravity="right" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Save As..."
+            android:textColor="#fff"
+            android:padding="10dp"/>
+        <TextView
+            android:text="Ctrl+Shift+S"
+            android:textColor="#ccc"
+            android:layout_gravity="right"   />
+    </TableRow>
+
+    <View
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="#666"/>
+
+    <TableRow>
+        <TextView
+            android:text="Import..."
+            android:textColor="#fff"
+            android:padding="10dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Export..."
+            android:textColor="#fff"
+            android:padding="10dp"/>
+        <TextView
+            android:text="Ctrl+E"
+            android:textColor="#ccc"
+            android:layout_gravity="right"/>
+    </TableRow>
+
+    <View
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="#666"/>
+
+    <TableRow>
+        <TextView
+            android:text="Quit"
+            android:textColor="#fff"
+            android:padding="10dp"/>
+    </TableRow>
+
+</TableLayout>
