@@ -11,8 +11,6 @@ Experiment2 项目通过四个功能界面的设计，展示了 Android 中的�
 3. CalculatorActivity：简易计算器的实现。
 4. TravelActivity：旅行预订界面交互与控件综合运用。
 
-每个模块都独立展示一个 Android 开发重点，适合初学者巩固核心概念，也适合作为课堂实验项目参考。
-
 二、技术说明
 
 Java：用于逻辑编写与事件处理  
